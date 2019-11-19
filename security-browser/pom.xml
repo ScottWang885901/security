@@ -17,6 +17,4 @@
             <version>${study.security.version}</version>
         </dependency>
     </dependencies>
-
-
 </project>
