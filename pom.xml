@@ -31,7 +31,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    <!--maven 编译配置-->
+
     <build>
         <plugins>
             <plugin>
